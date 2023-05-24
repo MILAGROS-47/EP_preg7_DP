@@ -1,0 +1,26 @@
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#add-birthday-form {
+  margin-bottom: 30px;
+}
+
+#birthday-list {
+  text-align: center;
+}
+
+#clear-birthdays {
+  margin-bottom: 10px;
+}
+
+.birthday-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
